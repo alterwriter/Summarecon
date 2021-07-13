@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+icmplib
+python3-Wappalyzer
+lxml
