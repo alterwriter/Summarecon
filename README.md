@@ -4,19 +4,19 @@
 ## SUMMARECON
 :fire: (An Automatic Scanning Tool) :fire:
 
-Sebuah tool yang biasa kita dengar dengan scraping, namun dalam scanning, kita hanya
-memetakan serta mendeteksi kumpulan data dan lalu lintas yang berada pada sebuah
-jaringan. Bisa dianalogikan dengan tindakan penilangan atau survey terhadap suatu wilayah
-berdasarkan lokasi, jaringan, dan katalog sublist pada sebuah website.
+A tool that we usually hear with scraping, but in scanning, we just
+and detects datasets and traffic residing on a
+network. Can be analogous to the act of crossing or surveying an area
+based on location, network, and catalog sublists on a website.
 
-## Fitur :
-1. Subdomain Scanning
-Memetakan dan mendapatkan list subdomain dari domain tertentu sehingga
-mempermudah dalam sebuah akses penelusuran website.
+## Features :
+1. Subdomain Scan
+Map and get a list of subdomains of a given domain so that
+ease of access to a website search.
 
-2. Server & Network Scanning
-Memetakan layanan, lalu lintas transfer data & protocol yang berada pada server &
+2. Server & Network Scan
+Mapping services, data transfer traffic & protocols residing on the server &
 network.
-3. Web Scanning
-Memetakan teknologi dan vulnerabilities yang ada pada suatu web dan bisa di-
-integrasikan dengan fitur subdomain scanning
+3. Web Scan
+Mapping technologies and vulnerabilities that exist on a web and can be accessed
+integrate with subdomain scanning feature
